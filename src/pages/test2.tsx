@@ -1,6 +1,5 @@
 import type { NextPage } from 'next'
 import { useState } from 'react';
-//import useSWR from 'swr'
 import axios from '@/libs/axios'
  
 const Page: NextPage = () => {
