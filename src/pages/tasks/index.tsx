@@ -22,6 +22,9 @@ function Index(props) {
             <Link href={`/tasks/${item.id}`}>
               <a className="btn btn-sm btn-outline-primary mx-2">Show</a>
             </Link>
+            <Link href={`/tasks/edit/${item.id}`}>
+              <a className="btn btn-sm btn-outline-primary mx-2">Edit</a>
+            </Link>
             ID: {item.id} , {item.created_at}
             <hr className="my-1"/>
           </div>       
