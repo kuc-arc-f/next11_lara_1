@@ -25,6 +25,10 @@ Next.js 11 + Laravel 8 ,sample
 ```
 yarn dev
 ```
+***
+### laravel
+
+https://github.com/kuc-arc-f/lara8d
 
 ***
 ### Blog:
